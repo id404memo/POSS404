@@ -1,5 +1,1 @@
-<resources>
-    <style name="Theme.POSS404" parent="android:Theme.Material.Light.NoActionBar">
-        <item name="android:statusBarColor">#0A2540</item>
-    </style>
-</resources>
+<resources><style name="Theme.POSS404" parent="android:Theme.Material.Light.NoActionBar"/></resources>
